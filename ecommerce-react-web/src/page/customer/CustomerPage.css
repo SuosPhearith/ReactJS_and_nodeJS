@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+    font-size: 17px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 0;
+}
+
+.td-left{
+    text-align: left;
+    padding: 4px;
+}
+.ant-table
+  .ant-table-container
+  .ant-table-content
+  table
+  thead.ant-table-thead
+  .ant-table-cell {
+  background-color: rgb(221, 205, 180);
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.table-row-light {
+    background-color: #ffffff;
+}
+.table-row-dark {
+    background-color: #edecec;
+}
+.ant-table-wrapper .ant-table-tbody>tr.ant-table-row:hover>td,
+.ant-table-wrapper .ant-table-tbody>tr>td.ant-table-cell-row-hover {
+   background: rgb(178, 216, 191);
+
+}

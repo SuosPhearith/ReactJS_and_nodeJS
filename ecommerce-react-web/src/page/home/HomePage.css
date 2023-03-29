@@ -1,0 +1,10 @@
+.home_page{
+    background-color: navy;
+}
+.btn{
+    background-color: navy;
+    border-radius: 0.5rem;
+    width: 5rem;
+    height: 3rem;
+    font-size: 1.5rem;
+}
